@@ -1,4 +1,3 @@
-#nanosmg to pipelineDB
 MODULE_big =my_bgw
 
 MYBGW_VERSION=1.0
